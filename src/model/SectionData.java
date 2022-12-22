@@ -1,4 +1,4 @@
-package modell;
+package model;
 
 /**
  * The NoGui.SectionData Class creates NoGui.Section Data Objects for a NoGui.Section

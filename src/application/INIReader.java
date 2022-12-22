@@ -4,7 +4,6 @@ import controller.INIReaderController;
 import model.Section;
 import model.SectionData;
 import util.Util;
-
 import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
